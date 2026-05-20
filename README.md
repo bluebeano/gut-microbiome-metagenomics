@@ -5,8 +5,6 @@ This repository contains the shell scripts I wrote to process a hybrid gut micro
 I used the human reference genome (hg38) to filter out host DNA contamination, and tested the pipeline using the public dataset from this paper:
 Chen, L., Zhao, N., Cao, J. et al. Short- and long-read metagenomics expand individualized structural variations in gut microbiomes. Nat Commun 13, 3175 (2022).
 
-Note on the files: Because raw metagenomic data is really heavy, my computer kept running out of memory. To avoid crashes, I broke the workflow down into separate shell scripts so I could run them step-by-step.
-
 ---
 
 ## Script List and Workflow
