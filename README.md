@@ -1,4 +1,4 @@
-# Hybrid Metagenomic Pipeline (Short and Long Reads)
+# Metagenomic Pipeline (Short and Long Reads)
 
 This repository contains the shell scripts I wrote to process a hybrid gut microbiome dataset, combining Illumina short-reads and Oxford Nanopore long-reads. 
 
