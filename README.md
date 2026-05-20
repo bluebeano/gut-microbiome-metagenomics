@@ -1,8 +1,8 @@
 # Metagenomic Pipeline (Short and Long Reads)
 
-This repository contains the shell scripts I wrote to process a hybrid gut microbiome dataset, combining Illumina short-reads and Oxford Nanopore long-reads. 
+This repository contains the shell scripts to process gut microbiome dataset, combining Illumina short-reads and Oxford Nanopore long-reads. 
 
-I used the human reference genome (hg38) to filter out host DNA contamination, and tested the pipeline using the public dataset from this paper:
+I used the human reference genome (hg38) to filter out host DNA, and use the public dataset from this paper:
 Chen, L., Zhao, N., Cao, J. et al. Short- and long-read metagenomics expand individualized structural variations in gut microbiomes. Nat Commun 13, 3175 (2022).
 
 ---
