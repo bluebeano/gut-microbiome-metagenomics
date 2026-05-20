@@ -22,7 +22,7 @@ Chen, L., Zhao, N., Cao, J. et al. Short- and long-read metagenomics expand indi
 - assembly_long_read.sh and assembly_long_read(0).sh: Runs Flye on the long-reads to help resolve repetitive regions and structural variants that short reads miss.
 
 4. Taxonomy and Profiling
-- kraken2.sh: Runs a fast k-mer search to assign taxonomic labels to the sequences.
+- kraken2.sh: Runs a k-mer search to assign taxonomic labels to the sequences.
 - bracken.sh: Takes the Kraken2 output and estimates relative species abundance.
 
 ---
